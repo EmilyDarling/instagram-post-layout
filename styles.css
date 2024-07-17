@@ -56,3 +56,6 @@ i{
 .post-summary{
     margin: 10px 20px;
 }
+em{
+    font-weight: bold;
+}
